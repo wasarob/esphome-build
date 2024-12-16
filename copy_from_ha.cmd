@@ -1,1 +1,1 @@
-scp -r root@homeassistant.local:/config/esphome/ config
+scp -r root@homeassistant.local:/config/esphome/* config

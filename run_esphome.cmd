@@ -5,5 +5,5 @@ pip install --upgrade esphome setuptools
 
 set PYTHONIOENCODING=utf-8
 set PYTHONLEGACYWINDOWSSTDIO=utf-8
-start esphome dashboard config\esphome
+start esphome dashboard config
 start http://localhost:6052
